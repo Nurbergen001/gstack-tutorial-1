@@ -1,0 +1,14 @@
+# WorkBuddy AI internal files
+.workbuddy-ai/
+
+# gstack internal metadata
+.gstack/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
